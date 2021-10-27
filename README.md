@@ -1,2 +1,2 @@
 # Laravel SMTP Cracker, Grabber
-Laravel SMTP Cracker, Get SMTP,and SMS API
+Laravel SMTP Cracker and Grabber, Get SMTP,and SMS API
