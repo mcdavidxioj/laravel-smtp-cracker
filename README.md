@@ -1,5 +1,30 @@
-# Laravel SMTP Cracker, Grabber
-Laravel SMTP Cracker and Grabber, Get SMTP,and SMS API
+# Laravel SMTP Cracker
 
-# Example
-<script id="asciicast-Su2F1GLfAX59noyXHmuipAbvM" src="https://asciinema.org/a/Su2F1GLfAX59noyXHmuipAbvM.js" async></script>
+The automatic tool for grabbing smtp and sms api from website list.
+This is for sale, if u interested u can contact me on telegram https://t.me/sosialismageran
+
+## Features
+
+- Get SMTP :  - OFFICE365 
+              - SMTP AWS 
+              - MAILGUN
+              - MANDRILL
+              - IONOS
+              - SENDGRID
+              - ZOHO
+              - YANDEX
+              - 1AND1
+              - AND OTHERS SMTP
+              
+- Get SMS API : - NEXMO 
+                - TWILLIO
+                - PLIVO
+                - TOXBOX
+                - EXOTEL
+                - ONESIGNAL
+
+## Preview
+[![asciicast](https://asciinema.org/a/Su2F1GLfAX59noyXHmuipAbvM.svg)](https://asciinema.org/a/Su2F1GLfAX59noyXHmuipAbvM)
+
+## Preview Result
+![zx](https://user-images.githubusercontent.com/89692016/139434130-4552af6f-ed27-4cdd-8dc5-e82fff7f3800.PNG)
