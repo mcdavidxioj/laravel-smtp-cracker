@@ -1,5 +1,6 @@
 # Laravel SMTP Cracker
 
+This tools code on python 2
 The automatic tool for grabbing smtp and sms api from website list.
 This is for sale, if u interested u can contact me on telegram https://t.me/sosialismageran
 
