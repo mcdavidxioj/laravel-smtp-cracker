@@ -26,7 +26,9 @@ CONTACT ME : Telegram : @devidxx8 Skype : live:.cid.72abb20c1b408b1f
                 - ONESIGNAL
 
 ## Preview
-[https://www.youtube.com/watch?v=3gidqCw-N9I](https://www.youtube.com/watch?v=3gidqCw-N9I "PREVIEW")
+[![PREVIEW TOOLS](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=3gidqCw-N9I "PREVIEW TOOLS")
+
+
 
 
 
