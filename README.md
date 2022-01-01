@@ -2,7 +2,8 @@
 
 This tools code on python 2
 The automatic tool for grabbing smtp and sms api from website list.
-This is for sale, if u interested u can contact me on telegram https://t.me/yuuvinx
+This is for sale
+CONTACT ME : Telegram : @devidxx8 Skype : live:.cid.72abb20c1b408b1f
 
 ## Features
 
