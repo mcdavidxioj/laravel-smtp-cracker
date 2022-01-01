@@ -25,7 +25,7 @@ This is for sale, if u interested u can contact me on telegram https://t.me/yuuv
                 - ONESIGNAL
 
 ## Preview
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3gidqCw-N9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![zs](https://www.youtube.com/watch?v=3gidqCw-N9I)
 
 ## Preview Result
 ![zx](https://user-images.githubusercontent.com/89692016/139434130-4552af6f-ed27-4cdd-8dc5-e82fff7f3800.PNG)
